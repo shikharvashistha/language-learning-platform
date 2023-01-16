@@ -29,7 +29,7 @@ Choose any javascript frameworks or libraries you want to use. Preferences are
 - Postgres
 - Supabase
 
-## Mock design
+## Design inspiration
 - [Courses Platform Dashboard by Levi Wilson for QClay](https://dribbble.com/shots/19945345-Courses-Platform-Dashboard)
 - [VR Education platform dashboard by Phenomenon Studio](https://dribbble.com/shots/20221682-VR-Education-platform-dashboard)
 
