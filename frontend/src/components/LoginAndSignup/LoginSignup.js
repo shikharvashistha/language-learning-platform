@@ -26,6 +26,7 @@ class LoginSignup extends React.Component {
             <button id="login-toggle" onClick={this.Logins}>
               log in
             </button>
+            <button type="button" class="btn btn-secondary">Secondary</button>
             <button id="signup-toggle" onClick={this.Signups}>
               sign up
             </button>
