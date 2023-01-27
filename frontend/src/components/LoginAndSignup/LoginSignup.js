@@ -20,6 +20,7 @@ class LoginSignup extends React.Component {
   };
   render() {
     return (
+      
       <div className="MainDiv">
         <div class="form-modal">
           <div class="form-toggle">
